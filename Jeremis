@@ -1,0 +1,55 @@
+Jeremis-<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jeremis Official Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      text-align: center;
+      padding: 40px;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      max-width: 400px;
+      margin: auto;
+      border-radius: 10px;
+    }
+    button {
+      background: green;
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+    } 
+<h3>Support My Work</h3>
+<p>Payments are processed securely. We do not store user data.</p>
+
+<a href="https://flutterwave.com/pay/jeremis" target="_blank">
+  <button>Pay Securely</button>
+</a>
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>Welcome</h1>
+    <p><strong>Username:</strong> Jeremis</p>
+    <p><strong>Email:</strong> yourmail@example.com</p>
+
+    <h3>Support / Payments</h3>
+    <p>Click below to make a payment</p>
+
+    <a href="https://buy.stripe.com/test_link_here">
+      <button>Pay Now</button>
+     <creater password: Jeremis2007
+    </a>
+  </div>
+
+</body>
+</html>
